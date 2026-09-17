@@ -3,4 +3,4 @@ opencv-python
 pandas
 tabula-py
 ultralytics
-jpype
+jpype1
