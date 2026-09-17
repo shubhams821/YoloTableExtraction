@@ -1,0 +1,6 @@
+pymupdf
+opencv-python
+pandas
+tabula-py
+ultralytics
+jpype
